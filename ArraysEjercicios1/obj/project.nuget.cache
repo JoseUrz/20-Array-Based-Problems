@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IUgE6YEqF1fSBqE/wCNflHZYm5qRtTiydDu9MH+P8VOkcIz/g1Ep9NZQM9qZqYjXb0ixiqEwRe/qPDoVaD6Ztw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose Jesus\\Desktop\\Estudio\\ArraysEjercicios1\\ArraysEjercicios1\\ArraysEjercicios1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose Jesus\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
