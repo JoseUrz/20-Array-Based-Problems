@@ -1,4 +1,6 @@
 # 20+ Array Based Problems
+![Array1](https://user-images.githubusercontent.com/109823909/196554328-c34f92ec-f2d6-4284-9311-e2c79edc1cdb.JPG)
+![Array2](https://user-images.githubusercontent.com/109823909/196554433-6c3f5899-53a2-4b56-8756-07dcf1184cbf.JPG)
 
 Aplicacion sencilla que crea un Vector con N cantidad de Numeros, esta a su vez realiza mas de 20 operaciones sobre el vector, las cuales pueden ser:
 -Numero Mayor
@@ -30,7 +32,7 @@ Simple application that creates an Array with N amount of Numbers, this performs
 -3rd Major Number
 -4th Major Number
 -Minor Number
--2nd minor number
+-2nd minor number!
 -3rd Minor Number
 -4th to Minor Number
 -Positive Numbers
